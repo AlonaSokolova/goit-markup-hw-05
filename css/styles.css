@@ -803,9 +803,9 @@
         background-color: #404bbf;
         border: none;
     }
-    .modal-close-btn:hover .modal-class-btn-icon,
-    .modal-close-btn:focus .modal-class-btn-icon {
-        fill: #ffffff
+    .modal-close-btn:hover .modal-close-icon,
+    .modal-close-btn:focus .modal-close-icon {
+       fill: #ffffff;
     }
 
     .modal-close-btn-icon {
@@ -816,4 +816,4 @@
         opacity: 0;
         visibility: hidden;
         pointer-events: none;
-      }
+    }
